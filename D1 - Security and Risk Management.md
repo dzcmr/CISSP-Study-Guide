@@ -3,6 +3,17 @@
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D2 - Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
 
+
+
+
+### Planning Disaster Response Procedures
+* Form a team first when starting the process
+
+### Business Continuity Plan
+* If affected area includes employees and their families then they might focus on that in the event of a disaster
+-------------------
+
+
 ### Understand and apply concepts of confidentiality, integrity and availability
 #### Definitions and examples
 * Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators knows exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
