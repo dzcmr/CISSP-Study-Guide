@@ -1,4 +1,6 @@
 # Security and Risk Management
+# Customized 
+# by daniel
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D2 - Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
