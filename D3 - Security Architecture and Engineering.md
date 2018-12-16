@@ -1,4 +1,14 @@
 # Security Architecture and Engineering
+# Edited
+
+
+## Exam Feedback
+
+Security domains are groupings of subjects and objects that have the same security requirements
+
+
+
+## old content
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D4 - Communication and Networking Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md) <br />
