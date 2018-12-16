@@ -7,12 +7,9 @@
 
 
 
+### Roles relating to Data
+* Data Custodian - (aka data steward), responsible for hands-on protection of data (backups/security/maintenance/DR)
 
-### Planning Disaster Response Procedures
-* Form a team first when starting the process
-
-### Business Continuity Plan
-* If affected area includes employees and their families then they might focus on that in the event of a disaster
 -------------------
 
 
