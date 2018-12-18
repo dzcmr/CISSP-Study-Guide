@@ -23,6 +23,10 @@ TCP/IP Model
   </br>1. Network access (OSI: Physical and Data Link)
 
 
+* Wifi Connectivity - CSMA/CA - IEE 802.11 (a,g,n OFDM)
+* Bluetooth - CDMA - IEEE 802.15 - 2.4Ghz - FHSS (modulation technique)
+
+
 * Internet Protocol (IP) networking - DHCP on LAN.  Lan connects to WAN. ISPs route traffic
 * Implications of multilayer protocols
 * Converged protocols - providing industrial controls, storage, voice, etc via Ethernet(tcp/udp)
@@ -30,6 +34,7 @@ TCP/IP Model
 * Wireless networks - WEP, WPA, WPA2. 802.11 is the wireless standard
 Many varieties of EAP
   * LEAP : Cisco-proprietry, very bad
+  * EAP : IEE 802.1X standard
   * EAP-TLS : requires server/client certificates
   * EAP-TTLS : allows passwords for client-side authentication
   * PEAP : similar to EAP-TTLS, developed by cisco and microsoft
@@ -48,6 +53,7 @@ Many varieties of EAP
 * Network Access Control (NAC) devices - 802.1X is port based network access control
 * Endpoint security - deep packet inspection. email filtering. 
 * Content-distribution networks - series of distributed caching servers to imporve performance and lower latency. They find closest servers to you and go
+
 
 ### Implement secure communication channels according to design
 Figure out what type of security mechanisms are best for scenarios you get on the test
