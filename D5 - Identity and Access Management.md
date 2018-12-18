@@ -1,6 +1,9 @@
 # Daniel Modified
 Kerberos can be vulnerable to replay attacks 
 
+Something you have / Transient authentication
+
+
 # Identity and Access Management (IAM)
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
