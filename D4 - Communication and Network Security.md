@@ -7,13 +7,21 @@
 * Open System Interconnection (OSI) and Transmission Control Protocol/Internet Protocol (TCP/IP) models
 </br>Layers:
   </br>7. Application  -  Google chrome
-  </br>6. Presentation -  JPEG
-  </br>5. Sessions     -  RPC
-  </br>4. Transport    -  TCP/UDP
-  </br>3. Network      -  IP Addressing
-  </br>2. Data Link    -  MAC Address
+  </br>6. Presentation -  MPG / JPEG / Data compression (often) / encryption (often)
+  </br>5. Sessions     -  PPTP / ZIP / SCP / SIP / RPC
+  </br>4. Transport    -  Segments and Sequencing / TCP / UDP
+  </br>3. Network      -  ^ Takes frames and organizes into packets IP Addressing
+  </br>2. Data Link    -  Ehternet / Frame Relay / Token Ring / L2TP / PPP / CDP / Wifi / Generates Frames MAC Address
   </br>1. Physical     -  Electrical/Optical Current
 </br>Think of it like you are trying to send a package of cookies to someone else half way across the world.
+
+TCP/IP Model
+</br>Layers:
+  </br>4. Application   (OSI: Session, Presentation, Application)
+  </br>3. Host-to-Host Transport (OSI: Transport)
+  </br>2. Internet (OSI: Network) 
+  </br>1. Network access (OSI: Physical and Data Link)
+
 
 * Internet Protocol (IP) networking - DHCP on LAN.  Lan connects to WAN. ISPs route traffic
 * Implications of multilayer protocols
