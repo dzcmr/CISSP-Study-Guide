@@ -6,6 +6,17 @@
 
 Security domains are groupings of subjects and objects that have the same security requirements
 
+Rings:
+ 0 - Kernel
+ 1 - OS components that are not Kernel
+ 2 - Device drivers
+ 3 - Users
+
+Encapsulating Security Payload (ESP)
+
+Multithreading divides CPU time among child processes. Processes spawn child processes called threads.
+Multitasking divides CPU time among multiple processes.
+Multiprocessing divides load over multiple CPUs
 
 
 ## old content
@@ -103,6 +114,7 @@ Need to know about physical security like: doors, locks, walls, fences, lights, 
 * Environmental issues
 * Fire prevention, detection, and suppression - know which fire extenguishers put out different fires
 
+* Fire classes
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D4 - Communication and Networking Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md) <br />
