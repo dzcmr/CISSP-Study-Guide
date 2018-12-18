@@ -51,7 +51,8 @@ CIA TRIAD - You can't have maximum levels of everything
 * Process:  A set up steps to accomplish a task.
 * Architecture: specifies when and where to apply security controls.  Describes interactions and roles
 * Framework: A set up processes with implimentation guidance
-* Standard:  A set of requirements, roles, and controls/frameworks to impliment
+* Standard:  Specific (example - all DCs MUST run windows server 2016) A set of requirements, roles, and controls/frameworks to impliment. Standards are mandatory.
+* Procedure: very specific and detailed.
 
 ### Determine compliance requirements
 ##### Governments are required to impliment NIST 800-53.  Private sector is required to implimented COBIT.  Many businesses end up implimenting part of each framework to meet its business objectives.
@@ -99,7 +100,7 @@ Examples below
 * Privacy policy requirements - FISMA regulates peoples PII info and that is appropriately controlled
 
 ### Understand and apply risk management concepts
-* Identify threats and vulnerabilities - NIST 800-30 defines threat sources. microsoft also has great threat model
+* Identify threats and vulnerabilities - NIST 800-30 defines threat sources.
 * Risk assessment/analysis - find all vulnerabilities and flaws in scope. prioritize them by level of effort to fix and the amount of risk of not fixing that.
 * Risk response - If you face risk, you can do one of the following things: avoid it, transfer it, mitigate it, or accept it
 * Countermeasure selection and implementation - If risk is identified, need to consider accountabilitiy, reliablility, dependencies, CIA, when implimenting a countermeasure. Think of solution to problem and other supplimental controls to help fix it. soemtimes you won't be able apply a patch to completely fix problem, so you will need some supplimental fixes (band aids)
