@@ -2,6 +2,9 @@
 
 [Back to Home Page](https://github.com/so87/CISSP-Study-Guide) <br />
 
+OOP Concepts
+Polymorphism - data can be pro
+
 ### Understand and integrate security in the Software Development Life Cycle (SDLC)
 0. Feasibility
 1. Project initialization
