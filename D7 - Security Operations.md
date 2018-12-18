@@ -104,7 +104,7 @@ Apply deterrents, monitoring, and protectin to keep assets undamaged and unstole
 * Read-through/tabletop
 * Walkthrough
 * Simulation
-* Parallel - test recovery of critical processing components at an alternate computing facility and recovery of system
+* Parallel relocates employees but does not shut down operations at primary site. test recovery of critical processing components at an alternate computing facility and recovery of system
 * Full interruption - what to do if businesses is completely interrupted
 
 ### Participate in Business Continuity (BC) planning and exercises
@@ -112,7 +112,9 @@ Identitfy and prioritize critical IT systems and components. there are templates
 * Business Continuity Plan vs Contingency Planing - Although  in  the  security  industry  “contingency  planning”  and  “business  continuity  planning (BCP)” are commonly used interchangeably, it is important that you understand the actual difference for the CISSP exam
 * BCP - addresses how to keep the organization in business after a disaster takes place 
 * Contingency Plans - address how to deal with small incidents that do not qualify as disasters, as in power outages, server failure etc
-
+* Hot sites 
+     site locations that support DR testings in accordance with DRP
+     always ready
 
 ### Implement and manage physical security
 * Perimeter security controls - fences, cameras, guards, lights, detectors
