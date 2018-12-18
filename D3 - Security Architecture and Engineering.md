@@ -24,6 +24,14 @@ Act honorably, honestly, justly, responsibly, and legally.
 Provide diligent and competent service to principals.
 Advance and protect the profession.
 
+Standards
+ISO 27001 - Security governance based on BS 7799
+ISO 27002 - Security controls based on industry best practices
+
+Protocols
+SEAL: 160 bits
+MD5 : 128 bits
+SHA-1 : 160 bit Hash value
 
 ## old content
 
@@ -96,7 +104,7 @@ Should see what track the device flows across the network.  See if you can conne
  * key management: how are you going to store all of your private/public keys?  are there backups? who do you trust
  * algorithm selection: need to know if you need CIA? Speed?  How much strength do you need?
 * Cryptographic methods (e.g., symmetric, asymmetric, elliptic curves)
- * symmetric: one key that encrypts and decrpts
+ * symmetric: one key that encrypts and decrpts (AES)
  * asymmetric: each person has their own public and private key. Private decrypts, public encrypts
  * elliptic cures: a type of math model used to gennerate commputationally difficult private/public key pairs
 * Public Key Infrastructure (PKI) - leverages all three forms of encryption to provide and manage digital certificates. Users have confidentiality, integrity, non-repudiation
