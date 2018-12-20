@@ -6,7 +6,7 @@
 ### Implement secure design principles in network architectures
 * Open System Interconnection (OSI) and Transmission Control Protocol/Internet Protocol (TCP/IP) models
 </br>Layers:
-  </br>7. Application  -  Google chrome
+  </br>7. Application  -  HTTP / DNS / DHCP / SMTP / POP3 / SSH / FTP
   </br>6. Presentation -  MPG / JPEG / Data compression (often) / encryption (often)
   </br>5. Sessions     -  PPTP / ZIP / SCP / SIP / RPC
   </br>4. Transport    -  Segments and Sequencing / TCP / UDP
