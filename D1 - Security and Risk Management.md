@@ -8,10 +8,45 @@
 
 
 ### Roles relating to Data
-* Data Custodian - (aka data steward), responsible for hands-on protection of data (backups/security/maintenance/DR)
-
+* Data Owner - members of management responsible for protection of a subset of information.
+* Data Custodian - responsible for implementing, managing, and monitoring the the protection mechanisms (aka data steward), responsible for hands-on protection of data (backups/security/maintenance/DR)
+* Users are expected to follow operational security procedures.
 -------------------
+review these terms:
+* Security governance
+* Stategic alignment
+* Value delivery
+* Process intergration
+* Due care
+* Due diligence
+* Compliance officer
+* Owners
+* Custodians
+* Downstream liability
 
+understand these terms
+* Owners
+* Board of Directors
+* Users
+* Jurisdiction
+* GLBA
+* HIPAA
+* FISMA
+* GDPR
+* PCI DSS
+* California
+
+
+ OECD 
+  FERPA
+  COPRA
+  
+  
+  
+regulations
+GLBA - Safeguards rule for financial institutions to have measures in place to keep customer information secure
+HIPAA | HITECH - The security rule requires covered entities implement appropriate administrative, physical and technical safeguards to ensure the CIA.
+FISMA - for federal agencies
 
 ### Understand and apply concepts of confidentiality, integrity and availability
 #### Definitions and examples
