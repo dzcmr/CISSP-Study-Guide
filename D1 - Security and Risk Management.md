@@ -5,7 +5,19 @@
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D2 - Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
 
+### Security Program
+Mnemonic PPSBG (Police Protect Seriously Bad Girls) 
+* Policies
+* Procedures
+* Standards
+* Baselines
+* Guidelines
 
+Policies - Contain Purpose! also Scope, Responsibilities, Compliance. Non-specific
+Procedures - Step by Step
+Standards - Technical aspects of a program - for example hardware and software
+Baselines - Provides a minimum level of security that employees and systems must meet
+Guidelines - Discretionary helpful advice to employees
 
 ### Roles relating to Data
 * Data Owner - members of management responsible for protection of a subset of information.
