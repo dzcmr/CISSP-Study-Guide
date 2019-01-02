@@ -9,9 +9,9 @@
   </br>7. Application  -  HTTP / DNS / DHCP / SMTP / POP3 / SSH / FTP
   </br>6. Presentation -  MPG / JPEG / Data compression (often) / encryption (often)
   </br>5. Sessions     -  PPTP / ZIP / SCP / SIP / RPC
-  </br>4. Transport    -  Segments and Sequencing / TCP / UDP
-  </br>3. Network      -  ^ Takes frames and organizes into packets IP Addressing
-  </br>2. Data Link    -  Ehternet / Frame Relay / Token Ring / L2TP / PPP / CDP / Wifi / Generates Frames MAC Address
+  </br>4. Transport    -  Segments / TCP / UDP
+  </br>3. Network      -  Packets / IP
+  </br>2. Data Link    -  Frames / Ehternet / Frame Relay / Token Ring / L2TP / PPP / CDP / Wifi / Generates Frames MAC Address
   </br>1. Physical     -  Electrical/Optical Current
 </br>Think of it like you are trying to send a package of cookies to someone else half way across the world.
 
